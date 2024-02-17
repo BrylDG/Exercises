@@ -1,0 +1,14 @@
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\bin\Debug\net8.0\ParkingProgram.exe
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\bin\Debug\net8.0\ParkingProgram.deps.json
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\bin\Debug\net8.0\ParkingProgram.runtimeconfig.json
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\bin\Debug\net8.0\ParkingProgram.dll
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\bin\Debug\net8.0\ParkingProgram.pdb
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\obj\Debug\net8.0\ParkingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\obj\Debug\net8.0\ParkingProgram.AssemblyInfoInputs.cache
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\obj\Debug\net8.0\ParkingProgram.AssemblyInfo.cs
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\obj\Debug\net8.0\ParkingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\obj\Debug\net8.0\ParkingProgram.dll
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\obj\Debug\net8.0\refint\ParkingProgram.dll
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\obj\Debug\net8.0\ParkingProgram.pdb
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\obj\Debug\net8.0\ParkingProgram.genruntimeconfig.cache
+C:\Users\Bryl\source\repos\ParkingProgram\ParkingProgram\obj\Debug\net8.0\ref\ParkingProgram.dll
