@@ -1,8 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
+using System;
 
 namespace ParkingProgram
 {
@@ -10,6 +12,10 @@ namespace ParkingProgram
     {
         static void Main(string[] args)
         {
+            int choice = 0;
+            string plateNo = "", brand = "", type = "";
+            DateTime timeOut;
+
             Console.WriteLine("=====================================================");
             Console.WriteLine("                       WELCOME!                      ");
             Console.WriteLine("=====================================================");
@@ -21,39 +27,67 @@ namespace ParkingProgram
             Console.WriteLine("   Sedan     |   30.00   |           15.00");
             Console.WriteLine("=====================================================");
 
-            Console.WriteLine("Enter Plate Number: ");
-            string plateNo = Console.ReadLine();
-            Console.WriteLine("Enter Vehicle Type (1.MotorBike 2.SUV/Van 3.Sedan ): ");
-            int choice = Convert.ToInt16(Console.ReadLine());
-            int flagDown = 0;
-            string brand = "", type = "";
-
-            switch (choice)
+            while (true)
             {
-                case 1:
-                    type = "MotorBike";
-                    flagDown = 1;
-                    break;
-                case 2:
-                    type = "SUV/Van";
-                    flagDown = 2;
-                    break;
-                case 3:
-                    type = "Sedan";
-                    flagDown = 3;
-                    break;
-                default:
-                    Console.WriteLine("Enter valid choice.");
-                    return;
+                Console.WriteLine("Enter Plate Number: ");
+                plateNo = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(plateNo))
+                {
+                    Console.WriteLine("Enter Valid Plate Number");
+                }
+                else break;
+            }
+
+            while (true)
+            {
+                Console.WriteLine("Enter Vehicle Type (1.MotorBike 2.SUV/Van 3.Sedan): ");
+                try
+                {
+                    choice = Convert.ToInt32(Console.ReadLine());
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Please enter a valid choice.");
+                    continue;
+                }
+
+                switch (choice)
+                {
+                    case 1:
+                        type = "MotorBike";
+                        break;
+                    case 2:
+                        type = "SUV/Van";
+                        break;
+                    case 3:
+                        type = "Sedan";
+                        break;
+                    default:
+                        Console.WriteLine("Enter valid choice.");
+                        continue;
+                }
+                break;
             }
 
             Console.WriteLine("Enter Vehicle Brand: ");
             brand = Console.ReadLine();
 
-            Console.WriteLine("Enter Time Out (follow this format: month/date/year hour:minute:seconds (AM/PM))");
-            DateTime timeOut = DateTime.Parse(Console.ReadLine());
+            while (true)
+            {
+                Console.WriteLine("Enter Time Out (follow this format: month/date/year hour:minute:seconds (AM/PM))");
+                try
+                {
+                    timeOut = DateTime.Parse(Console.ReadLine());
+                    break;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Enter Valid Date and Time");
+                }
+            }
 
             Vehicle vehicle = new Vehicle { PlateNumber = plateNo, Type = type, Brand = brand };
+
             Calculations calculations = new Calculations
             {
                 TimeIn = DateTime.Now,
@@ -63,34 +97,35 @@ namespace ParkingProgram
             };
 
             Console.WriteLine("=====================================================");
-            Console.WriteLine($"Plate No: {vehicle.PlateNumber}");
-            Console.WriteLine($"Vehicle type: {vehicle.Type}");
-            Console.WriteLine($"Brand: {vehicle.Brand}");
-            Console.WriteLine($"Time in: {calculations.TimeIn}");
-            Console.WriteLine($"Time out: {calculations.TimeOut}");
-            Console.WriteLine($"Hour(s): {calculations.Duration().Hours}");
-            Console.WriteLine($"Total: {calculations.TotalAmount()}");
-
+            Console.WriteLine("Plate No: {0}", vehicle.PlateNumber);
+            Console.WriteLine("Vehicle type: {0}", vehicle.Type);
+            Console.WriteLine("Brand: {0}", vehicle.Brand);
+            Console.WriteLine("Time in: {0}", calculations.TimeIn);
+            Console.WriteLine("Time out: {0}", calculations.TimeOut);
+            Console.WriteLine("Hour(s): {0}", calculations.Duration().Hours);
+            Console.WriteLine("Total: {0}", calculations.TotalAmount());
             Console.ReadKey();
         }
+
         static int FlagDown(string type)
-        {
-            switch (type) 
-            {
-                case "MotorBike": return 20; break;
-                case "SUV/Van": return 40; break;
-                case "Sedan": return 30; break;
-                default: return 0; break;
-            }
-        }
-        private static int Rate(string type)
         {
             switch (type)
             {
-                case "MotorBike": return 5; break;
-                case "SUV/Van": return 20; break;
-                case "Sedan": return 15; break;
-                default: return 0; break;
+                case "MotorBike": return 20;
+                case "SUV/Van": return 40;
+                case "Sedan": return 30;
+                default: return 0;
+            }
+        }
+
+        static int Rate(string type)
+        {
+            switch (type)
+            {
+                case "MotorBike": return 5;
+                case "SUV/Van": return 20;
+                case "Sedan": return 15;
+                default: return 0;
             }
         }
     }
