@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 
 namespace ParkingProgram
 {
@@ -10,9 +6,10 @@ namespace ParkingProgram
     {
         static void Main(string[] args)
         {
-            int flagDown = 0, choice = 0;
+            int choice = 0;
             string plateNo = "", brand = "", type = "";
             DateTime timeOut;
+            
             Console.WriteLine("=====================================================");
             Console.WriteLine("                       WELCOME!                      ");
             Console.WriteLine("=====================================================");
@@ -23,52 +20,69 @@ namespace ParkingProgram
             Console.WriteLine("  SUV/Van    |   40.00   |           20.00");
             Console.WriteLine("   Sedan     |   30.00   |           15.00");
             Console.WriteLine("=====================================================");
-            while(true){
-            Console.WriteLine("Enter Plate Number: ");
-            plateNo = Console.ReadLine();
-            if (string.IsNullOrWhiteSpace(plateNo))
-            {
-                Console.WriteLine("Enter Valid Plate Number");
-            }
-            else break;
-            }
 
+            // Prompt for Plate Number until valid input is given
             while (true)
             {
-                    Console.WriteLine("Enter Vehicle Type (1.MotorBike 2.SUV/Van 3.Sedan): ");
-                    try
-                    {
-                        choice = Convert.ToInt16(Console.ReadLine());
-                    }
-                    catch { Console.WriteLine("Enter Valid Choice"); continue; }
+                Console.WriteLine("Enter Plate Number: ");
+                plateNo = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(plateNo))
+                {
+                    Console.WriteLine("Enter Valid Plate Number");
+                }
+                else break;
+            }
+
+            // Prompt for Vehicle Type until valid input is given
+            while (true)
+            {
+                Console.WriteLine("Enter Vehicle Type (1.MotorBike 2.SUV/Van 3.Sedan): ");
+                try
+                {
+                    choice = Convert.ToInt32(Console.ReadLine());
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Please enter a valid choice.");
+                    continue;
+                }
 
                 switch (choice)
                 {
                     case 1:
                         type = "MotorBike";
-                        flagDown = 1;
                         break;
                     case 2:
                         type = "SUV/Van";
-                        flagDown = 2;
                         break;
                     case 3:
                         type = "Sedan";
-                        flagDown = 3;
                         break;
                     default:
                         Console.WriteLine("Enter valid choice.");
                         continue;
                 }
+                break; // Break the loop once a valid choice is made
             }
 
+            // Prompt for Vehicle Brand
             Console.WriteLine("Enter Vehicle Brand: ");
-            try { brand = Console.ReadLine(); }
-                catch { Console.WriteLine("Enter Valid Vehicle Brand"); }
-            
-            Console.WriteLine("Enter Time Out (follow this format: month/date/year hour:minute:seconds (AM/PM))");
-            try {timeOut = DateTime.Parse(Console.ReadLine());}
-            catch { Console.WriteLine("Enter Valid Date and Time"); }
+            brand = Console.ReadLine();
+
+            // Prompt for Time Out until valid input is given
+            while (true)
+            {
+                Console.WriteLine("Enter Time Out (follow this format: month/date/year hour:minute:seconds (AM/PM))");
+                try
+                {
+                    timeOut = DateTime.Parse(Console.ReadLine());
+                    break; // Break the loop once valid input is given
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Enter Valid Date and Time");
+                }
+            }
 
             Vehicle vehicle = new Vehicle { PlateNumber = plateNo, Type = type, Brand = brand };
 
@@ -93,23 +107,51 @@ namespace ParkingProgram
 
         static int FlagDown(string type)
         {
-            switch (type) 
+            switch (type)
             {
-                case "MotorBike": return 20; break;
-                case "SUV/Van": return 40; break;
-                case "Sedan": return 30; break;
-                default: return 0; break;
+                case "MotorBike": return 20;
+                case "SUV/Van": return 40;
+                case "Sedan": return 30;
+                default: return 0;
             }
         }
-        private static int Rate(string type)
+
+        static int Rate(string type)
         {
             switch (type)
             {
-                case "MotorBike": return 5; break;
-                case "SUV/Van": return 20; break;
-                case "Sedan": return 15; break;
-                default: return 0; break;
+                case "MotorBike": return 5;
+                case "SUV/Van": return 20;
+                case "Sedan": return 15;
+                default: return 0;
             }
+        }
+    }
+
+    class Vehicle
+    {
+        public string PlateNumber { get; set; }
+        public string Type { get; set; }
+        public string Brand { get; set; }
+    }
+
+    class Calculations
+    {
+        public DateTime TimeIn { get; set; }
+        public DateTime TimeOut { get; set; }
+        public int FlagDown { get; set; }
+        public int Rate { get; set; }
+
+        public TimeSpan Duration()
+        {
+            return TimeOut - TimeIn;
+        }
+
+        public decimal TotalAmount()
+        {
+            int hours = Duration().Hours;
+            decimal total = FlagDown + (hours * Rate);
+            return total;
         }
     }
 }
