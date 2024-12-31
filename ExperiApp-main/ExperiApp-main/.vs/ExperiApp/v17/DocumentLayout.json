@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|c:\\users\\user\\downloads\\experiapp-main\\experiapp-main\\experiapp\\loginusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\loginusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|c:\\users\\user\\downloads\\experiapp-main\\experiapp-main\\experiapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|c:\\users\\user\\downloads\\experiapp-main\\experiapp-main\\experiapp\\registerusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\registerusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|c:\\users\\user\\downloads\\experiapp-main\\experiapp-main\\experiapp\\loginusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\loginusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|c:\\users\\user\\downloads\\experiapp-main\\experiapp-main\\experiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|c:\\users\\user\\downloads\\experiapp-main\\experiapp-main\\experiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\experiapp\\loginusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\loginusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|c:\\users\\user\\downloads\\experiapp-main\\experiapp-main\\experiapp\\registerusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\registerusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|c:\\users\\user\\downloads\\experiapp-main\\experiapp-main\\experiapp\\sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\sqlquery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\experiapp\\registerusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFBEAEBA-D62E-43B8-931E-AACF6050F7A2}|ExperiApp\\ExperiApp.csproj|solutionrelative:experiapp\\registerusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ExperiApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\Form1.Designer.cs",
+              "RelativeToolTip": "ExperiApp\\Form1.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowCkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:57:04.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ExperiApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\Form1.cs",
+              "RelativeToolTip": "ExperiApp\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:56:58.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ExperiApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\Form1.cs [Design]",
+              "RelativeToolTip": "ExperiApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:56:57.088Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\LoginUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "ExperiApp\\LoginUserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\LoginUserControl.Designer.cs",
+              "RelativeToolTip": "ExperiApp\\LoginUserControl.Designer.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowFYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:56:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterUserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\RegisterUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "ExperiApp\\RegisterUserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\RegisterUserControl.Designer.cs",
+              "RelativeToolTip": "ExperiApp\\RegisterUserControl.Designer.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwIEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:57:44.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\LoginUserControl.cs",
+              "RelativeDocumentMoniker": "ExperiApp\\LoginUserControl.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\LoginUserControl.cs",
+              "RelativeToolTip": "ExperiApp\\LoginUserControl.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:38:01.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\LoginUserControl.cs",
+              "RelativeDocumentMoniker": "ExperiApp\\LoginUserControl.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\LoginUserControl.cs [Design]",
+              "RelativeToolTip": "ExperiApp\\LoginUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:37:59.187Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLQuery3.sql",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "ExperiApp\\SQLQuery3.sql",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\SQLQuery3.sql",
+              "RelativeToolTip": "ExperiApp\\SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-20T08:23:50.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\RegisterUserControl.cs",
+              "RelativeDocumentMoniker": "ExperiApp\\RegisterUserControl.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\RegisterUserControl.cs",
+              "RelativeToolTip": "ExperiApp\\RegisterUserControl.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:05:34.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\RegisterUserControl.cs",
+              "RelativeDocumentMoniker": "ExperiApp\\RegisterUserControl.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ExperiApp-main\\ExperiApp-main\\ExperiApp\\RegisterUserControl.cs [Design]",
+              "RelativeToolTip": "ExperiApp\\RegisterUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:50:54.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

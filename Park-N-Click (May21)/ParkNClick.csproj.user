@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetailPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EditPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewEditPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewRegister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ParkInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ParkoutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserLogsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLogsPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

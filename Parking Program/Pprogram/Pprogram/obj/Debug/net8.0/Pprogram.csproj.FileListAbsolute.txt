@@ -1,0 +1,14 @@
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\bin\Debug\net8.0\Pprogram.exe
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\bin\Debug\net8.0\Pprogram.deps.json
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\bin\Debug\net8.0\Pprogram.runtimeconfig.json
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\bin\Debug\net8.0\Pprogram.dll
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\bin\Debug\net8.0\Pprogram.pdb
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\obj\Debug\net8.0\Pprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\obj\Debug\net8.0\Pprogram.AssemblyInfoInputs.cache
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\obj\Debug\net8.0\Pprogram.AssemblyInfo.cs
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\obj\Debug\net8.0\Pprogram.csproj.CoreCompileInputs.cache
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\obj\Debug\net8.0\Pprogram.dll
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\obj\Debug\net8.0\refint\Pprogram.dll
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\obj\Debug\net8.0\Pprogram.pdb
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\obj\Debug\net8.0\Pprogram.genruntimeconfig.cache
+C:\Users\Bryl\source\repos\Pprogram\Pprogram\obj\Debug\net8.0\ref\Pprogram.dll

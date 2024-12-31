@@ -1,0 +1,686 @@
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.exe
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.deps.json
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.runtimeconfig.json
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.AdminDashboard.resources
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.DashboardMenu.resources
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.DetailPanel.resources
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.EditPanel.resources
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.Login.resources
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.Properties.Resources.resources
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.Registration.resources
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.UserLogsPanel.resources
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.GenerateResource.cache
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfo.cs
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.Up2Date
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\refint\ParkNClick.dll
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.genruntimeconfig.cache
+C:\Users\User\Downloads\park n go-20240420T104453Z-001\park n go\obj\Debug\net8.0-windows\ref\ParkNClick.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\ParkNClick.exe
+D:\Projects\park n go\bin\Debug\net8.0-windows\ParkNClick.deps.json
+D:\Projects\park n go\bin\Debug\net8.0-windows\ParkNClick.runtimeconfig.json
+D:\Projects\park n go\bin\Debug\net8.0-windows\ParkNClick.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\ParkNClick.pdb
+D:\Projects\park n go\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Projects\park n go\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.AssemblyReference.cache
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.AdminDashboard.resources
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.DashboardMenu.resources
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.DetailPanel.resources
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.EditPanel.resources
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.Login.resources
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.Properties.Resources.resources
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.Registration.resources
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.UserLogsPanel.resources
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.GenerateResource.cache
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfoInputs.cache
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfo.cs
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.CoreCompileInputs.cache
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.Up2Date
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.dll
+D:\Projects\park n go\obj\Debug\net8.0-windows\refint\ParkNClick.dll
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.pdb
+D:\Projects\park n go\obj\Debug\net8.0-windows\ParkNClick.genruntimeconfig.cache
+D:\Projects\park n go\obj\Debug\net8.0-windows\ref\ParkNClick.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.exe
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.AdminDashboard.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.AdminDB.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.DashboardMenu.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.DetailPanel.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.EditPanel.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.Login.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.Properties.Resources.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.Receipt.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.Registration.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.Trial.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.UserLogsForm.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.UserLogsPanel.resources
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.GenerateResource.cache
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfo.cs
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.csproj.Up2Date
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\refint\ParkNClick.dll
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.deps.json
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.runtimeconfig.json
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\bin\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ParkNClick.genruntimeconfig.cache
+C:\Users\User\Downloads\park n go-20240422T011827Z-001\park n go\obj\Debug\net8.0-windows\ref\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.exe
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.deps.json
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.runtimeconfig.json
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.AdminDashboard.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.AdminDB.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Dashboard.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.DashboardMenu.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.DetailPanel.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.EditPanel.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Login.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Properties.Resources.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Receipt.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Registration.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Trial.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.UserLogsForm.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.UserLogsPanel.resources
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfo.cs
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.csproj.Up2Date
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\refint\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.genruntimeconfig.cache
+C:\Users\User\Downloads\Park-N-Click (April22)\obj\Debug\net8.0-windows\ref\ParkNClick.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.exe
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.deps.json
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.runtimeconfig.json
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.csproj.AssemblyReference.cache
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.AdminDashboard.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.AdminDB.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Dashboard.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.DashboardMenu.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.DetailPanel.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.EditPanel.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Login.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.NewLogin.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Properties.Resources.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Receipt.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Registration.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.Trial.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.UserLogsForm.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.UserLogsPanel.resources
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.csproj.GenerateResource.cache
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfoInputs.cache
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfo.cs
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.csproj.CoreCompileInputs.cache
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.csproj.Up2Date
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\refint\ParkNClick.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.genruntimeconfig.cache
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ref\ParkNClick.dll
+C:\Users\Bryl\Downloads\Park-N-Click (April22)-20240516T112911Z-001\Park-N-Click (April22)\obj\Debug\net8.0-windows\ParkNClick.NewLoginPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\ParkNClick.exe
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\ParkNClick.deps.json
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\ParkNClick.runtimeconfig.json
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.AdminDashboard.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.AdminDB.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.Dashboard.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.DashboardMenu.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.DetailPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.EditPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.Floor1.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.Floor2.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.Login.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.NewDashboard.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.NewLogin.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.NewRegister.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.ParkInForm.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.ParkoutForm.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.Properties.Resources.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.Receipt.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.Registration.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.Trial.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.UserLogsForm.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.UserLogsPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfo.cs
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.csproj.Up2Date
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\refint\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ParkNClick.genruntimeconfig.cache
+C:\Users\User\Downloads\Park-N-Click (May16)\obj\Debug\net8.0-windows\ref\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\ParkNClick.exe
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\ParkNClick.deps.json
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\ParkNClick.runtimeconfig.json
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.AdminDashboard.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.AdminDB.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.Dashboard.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.DashboardMenu.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.DetailPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.EditPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.Floor1.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.Floor2.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.Login.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.NewDashboard.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.NewEditPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.NewLogin.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.NewReceipt.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.NewRegister.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.ParkInForm.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.ParkoutForm.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.Properties.Resources.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.Receipt.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.Registration.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.Trial.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.UserLogsForm.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.UserLogsPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfo.cs
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.csproj.Up2Date
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\refint\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ParkNClick.genruntimeconfig.cache
+C:\Users\User\Downloads\Park-N-Click (May19)\obj\Debug\net8.0-windows\ref\ParkNClick.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\ParkNClick.exe
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\ParkNClick.deps.json
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\ParkNClick.runtimeconfig.json
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\ParkNClick.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\ParkNClick.pdb
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Projects\Park-N-Click (May20)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.csproj.AssemblyReference.cache
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.AdminDashboard.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.AdminDB.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.Dashboard.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.DashboardMenu.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.DetailPanel.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.EditPanel.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.Floor1.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.Floor2.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.Login.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.NewDashboard.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.NewEditPanel.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.NewLogin.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.NewReceipt.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.NewRegister.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.ParkInForm.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.ParkoutForm.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.Properties.Resources.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.Receipt.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.Registration.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.Trial.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.UserLogsForm.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.UserLogsPanel.resources
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.csproj.GenerateResource.cache
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfoInputs.cache
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfo.cs
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.csproj.CoreCompileInputs.cache
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.csproj.Up2Date
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.dll
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\refint\ParkNClick.dll
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.pdb
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ParkNClick.genruntimeconfig.cache
+D:\Projects\Park-N-Click (May20)\obj\Debug\net8.0-windows\ref\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\ParkNClick.exe
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\ParkNClick.deps.json
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\ParkNClick.runtimeconfig.json
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.AdminDashboard.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.AdminDB.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.Dashboard.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.DashboardMenu.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.DetailPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.EditPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.Floor1.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.Floor2.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.Login.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.NewDashboard.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.NewEditPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.NewLogin.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.NewReceipt.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.NewRegister.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.ParkInForm.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.ParkoutForm.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.Properties.Resources.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.Receipt.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.Registration.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.Trial.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.UserLogsForm.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.UserLogsPanel.resources
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.AssemblyInfo.cs
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.csproj.Up2Date
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\refint\ParkNClick.dll
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.pdb
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ParkNClick.genruntimeconfig.cache
+C:\Users\User\Downloads\Park-N-Click (May21)\obj\Debug\net8.0-windows\ref\ParkNClick.dll

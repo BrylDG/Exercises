@@ -1,0 +1,180 @@
+C:\Users\Administrator\source\repos\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.exe
+C:\Users\Administrator\source\repos\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.deps.json
+C:\Users\Administrator\source\repos\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\Administrator\source\repos\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.CustomTextBox.resources
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.DetailPanel.resources
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.Form1.resources
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.Form2.resources
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\refint\ParkingApp.dll
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ref\ParkingApp.dll
+C:\Users\Administrator\source\repos\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.sidePanelRight.resources
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.exe
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.deps.json
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.runtimeconfig.json
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\bin\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.CustomTextBox.resources
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.DetailPanel.resources
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.Form1.resources
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.Form2.resources
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.Properties.Resources.resources
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.sidePanelRight.resources
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfo.cs
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\refint\ParkingApp.dll
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ParkingApp.genruntimeconfig.cache
+C:\Users\User\Downloads\ParkingApp-20240307T134801Z-001\ParkingApp\obj\Debug\net8.0-windows\ref\ParkingApp.dll
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.dll
+D:\APPSDEV proj\obj\Debug\net8.0-windows\refint\ParkingApp.dll
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.pdb
+D:\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.exe
+D:\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.deps.json
+D:\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.runtimeconfig.json
+D:\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.dll
+D:\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.pdb
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.CustomTextBox.resources
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.DetailPanel.resources
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form1.resources
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form2.resources
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Properties.Resources.resources
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.sidePanelRight.resources
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.GenerateResource.cache
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfoInputs.cache
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfo.cs
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.CoreCompileInputs.cache
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.genruntimeconfig.cache
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ref\ParkingApp.dll
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.receiptPanel.resources
+D:\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form3.resources
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.exe
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.deps.json
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.runtimeconfig.json
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.CustomTextBox.resources
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.DetailPanel.resources
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form1.resources
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form2.resources
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form3.resources
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Properties.Resources.resources
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.receiptPanel.resources
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.sidePanelRight.resources
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.GenerateResource.cache
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfo.cs
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\refint\ParkingApp.dll
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.genruntimeconfig.cache
+C:\Users\Bryl\Downloads\APPSDEV proj-20240309T092932Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ref\ParkingApp.dll
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.exe
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.deps.json
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.CustomTextBox.resources
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.DetailPanel.resources
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form1.resources
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form2.resources
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form3.resources
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.receiptPanel.resources
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.sidePanelRight.resources
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\refint\ParkingApp.dll
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ParkingProgram-main\APPSDEV proj\obj\Debug\net8.0-windows\ref\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.exe
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.deps.json
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.runtimeconfig.json
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.CustomTextBox.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.DetailPanel.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form1.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form2.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form3.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Properties.Resources.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.receiptPanel.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.sidePanelRight.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.GenerateResource.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfo.cs
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\refint\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.genruntimeconfig.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001\APPSDEV proj\obj\Debug\net8.0-windows\ref\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.exe
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.deps.json
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.runtimeconfig.json
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.CustomTextBox.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.DetailPanel.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form1.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form2.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form3.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Properties.Resources.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.receiptPanel.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.sidePanelRight.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.GenerateResource.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfo.cs
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\refint\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.genruntimeconfig.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Copy\APPSDEV proj\obj\Debug\net8.0-windows\ref\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.exe
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.deps.json
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.runtimeconfig.json
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\bin\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.CustomTextBox.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.DetailPanel.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form1.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form2.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Form3.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.Properties.Resources.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.receiptPanel.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.sidePanelRight.resources
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.GenerateResource.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.AssemblyInfo.cs
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\refint\ParkingApp.dll
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.pdb
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ParkingApp.genruntimeconfig.cache
+C:\Users\User\Downloads\APPSDEV proj-20240310T233911Z-001 - Original\APPSDEV proj\obj\Debug\net8.0-windows\ref\ParkingApp.dll
